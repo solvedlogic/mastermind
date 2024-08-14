@@ -1,7 +1,7 @@
 ---
-date: 2024-08-14 17:26:00
+date: 2024-08-14 18:03:00
 layout: post
-title: "My Chemical Romance : Cancer, Black Parade, and Disenchanted"
+title: My Chemical Romance
 description: My Chemical Romance telah dikenal sebagai salah satu band yang
   mampu menyampaikan pesan yang dalam melalui lirik-lirik mereka. Di antara
   lagu-lagu mereka yang paling menggugah adalah “Cancer,” “Welcome to the Black
