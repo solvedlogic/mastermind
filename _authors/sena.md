@@ -1,7 +1,7 @@
 ---
 layout: author
 photo: /assets/img/uploads/robin.jpg
-name: Sena
+name: sena
 display_name: Sena
 position: The One
 bio: Blah blah blah blah
