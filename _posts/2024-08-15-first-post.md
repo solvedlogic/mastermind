@@ -6,7 +6,7 @@ description: desc
 category: blog
 tags:
   - first
-author: Sena
+author: sena
 paginate: true
 ---
 Blah blah blah
